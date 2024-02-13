@@ -8,7 +8,6 @@
     def printString(self):
         print("Upper case string:", self.string.upper())
 
-# Example usage:
 if __name__ == "__main__":
     exercise_1 = exercise1()
     exercise_1.getString()
